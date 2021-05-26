@@ -1,5 +1,5 @@
 {
-  "alert": "alert {{value}} spanish",
+  "alert": "alert {value} spanish",
   "home": "home spanish",
   "fromList": "from list",
   "a": {
@@ -14,5 +14,6 @@
     "desc": "Desc spanish"
   },
   "fallback": "I'm a spanish fallback",
-  "empty": "I'm a spanish empty fallback {{value}}"
+  "empty": "I'm a spanish empty fallback {value}",
+  "myPluralRule": "{myCount, plural, =0 {no results} one {1 result} other {# results}}"
 }

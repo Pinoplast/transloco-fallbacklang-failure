@@ -13,5 +13,6 @@
     "title": "Title english",
     "desc": "Desc english"
   },
-  "key.is.like.path": "key is like path"
+  "key.is.like.path": "key is like path",
+  "myPluralRule": "{myCount, plural, =0 {no results} one {1 result} other {# results}}"
 }
